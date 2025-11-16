@@ -21,21 +21,11 @@ Uma API REST simples em **Spring Boot** para gerenciamento de tarefas (Tasks), r
 - Spring Boot  
 - Spring Data JPA  
 - Hibernate (JPA)  
-- Banco de dados (ex: H2 / PostgreSQL / MySQL — depende de sua configuração)  
+- H2 Database
 - Lombok  
 - Bean Validation (`jakarta.validation`)  
 - OpenAPI / Swagger (usando `springdoc-openapi`)  
 
----
-
-## 🔧 Pré-requisitos para rodar localmente
-
-- Java instalado (versão compatível com seu projeto)  
-- Maven ou Gradle (dependendo do seu build)  
-- Banco de dados configurado (se não usar em memória)  
-- (Opcional) Docker, caso você tenha contêiner para banco  
-
----
 
 ## 🚀 Como executar
 
